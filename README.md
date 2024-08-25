@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔎 Discovered scientific methodology in 2023 and fell in love with it<br>⌨️ Learning to use Data Science tools in my research on legal institutions and elites<br>📚 I've also been working on my statistics<br>🎓 M.Sc. student in Political Science (2023-current), B.Sc. in Law (2017-2022)<br>🧉 Both of the above at the Federal University of Rio Grande do Sul<br>🎯 My current goal is to create a portfolio showcasing multi-methods research<br>😄 I'm a latino man and my pronouns are he/him<br>🎲 Fun fact: you should never tell a Law postgrad that legal doctrines aren't scientific research</p>
+<p align="left">🔎 Discovered scientific methodology in 2023 and fell in love with it<br>⌨️ Learning to use Data Science tools in my research on legal institutions and elites<br>📚 I've also been working on my statistics<br>🎓 M.Sc. student in Political Science (2023-current), B.Sc. in Law (2017-2022)<br>🧉 Both of the above at the Federal University of Rio Grande do Sul<br>🎯 My current goal is to create a portfolio showcasing multi-methods research<br>👨🏽 I'm a latino man and my pronouns are he/him</p>
 
 ###
 
